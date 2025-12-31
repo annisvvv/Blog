@@ -5,9 +5,9 @@ title: ""
 
 #### Welcome to my blog
 
-This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture.
+This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture. You can find more information in the about section.
 
-### Posts:
+#### Posts:
 
 <ul>
   {% for post in site.posts %}

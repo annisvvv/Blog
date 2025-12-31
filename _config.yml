@@ -9,3 +9,7 @@ github_username: "annisvvv"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+header_pages:
+  - index.md
+  - about.md
