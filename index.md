@@ -1,10 +1,11 @@
 ---
 layout: page
-#title: 
+title: ""
 ---
 
-## Welcome to my blog
-This is my personal blog hosted on **GitHub Pages** using Jekyll.
+### Welcome to my blog
+
+This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture.
 
 ### Posts:
 
@@ -15,4 +16,4 @@ This is my personal blog hosted on **GitHub Pages** using Jekyll.
       - <span>{{ post.date | date: "%Y-%m-%d" }}</span>
     </li>
   {% endfor %}
-</ul>
+</ul>sudo apt install ruby-full build-essential zlib1g-dev
