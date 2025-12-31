@@ -5,7 +5,7 @@ title: ""
 
 #### Welcome to my blog
 
-This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture. You can find more information in the about section.
+This is my personal blog i wish i could help someone of you get inspired, wish you  good lecture. You can find more information in the [About](/about/) section.
 
 #### Posts:
 
